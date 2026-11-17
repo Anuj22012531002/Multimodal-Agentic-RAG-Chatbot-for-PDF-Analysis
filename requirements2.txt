@@ -1,0 +1,11 @@
+langchain
+langchain-google-genai
+langchain-core
+langchain-community
+langchain-text-splitters
+pymupdf
+streamlit
+chromadb
+pypdf
+pydantic
+faiss-cpu
